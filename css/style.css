@@ -1,6 +1,6 @@
 .container1{
     display: flex;
-    border: 2px solid black;
+    border: 1.4px solid black;
     max-width: 60%;
     margin: auto;
     justify-content: space-around;
@@ -24,6 +24,7 @@
     margin-top: -5px;
     margin-bottom: -5px;
     padding:8px;
+    align-items: center;
 }
 .div1{
     display: flex;
