@@ -48,6 +48,10 @@ for (i = 0; i < 10; i++) {
         div.style.backgroundColor = 'white';
         p1.style.color = 'black';
     }
+    else
+    {
+        p1.style.color = 'white';
+    }
 }
 }
 
@@ -73,6 +77,10 @@ for (i = 9; i>-1; i--) {
     else if (i!=8) {
         div.style.backgroundColor = 'white';
         p1.style.color = 'black';
+    }
+    else
+    {
+        p1.style.color = 'white';
     }
 }
 }

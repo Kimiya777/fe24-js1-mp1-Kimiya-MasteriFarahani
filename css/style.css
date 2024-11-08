@@ -19,31 +19,29 @@
     background-color: #A8A8F0;
     display: flex;
     max-width:100px;
-    width:50px;
+    width:45px;
     flex-direction: column;
-    margin-top: -5px;
-    margin-bottom: -5px;
-    padding:8px;
+    border: 8px solid #A8A8F0;
     align-items: center;
 }
 .div1{
     display: flex;
     align-items:flex-start;
-    width:94%;
+    width:100%;
     flex-direction: column;
     margin: auto;
 }
 .div2{
     display: flex;
     align-items:center;
-    width:94%;
+    width:100%;
     flex-direction: column;
     margin: auto;
 }
 .div3{
     display: flex;
     align-items:flex-end;
-    width:94%;
+    width:100%;
     flex-direction: column;
     margin: auto;
 }
